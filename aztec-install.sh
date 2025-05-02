@@ -69,5 +69,5 @@ check_success "Aztec sequencer launch"
 
 # 9. Final message
 print_header "🎉 Setup Complete!"
-echo "🖥️  To check the sequencer: run \033[1;33mscreen -r aztec\033[0m"
-echo "🔌 To detach from screen, press \033[1;33mCTRL+A then D\033[0m"
+echo "🖥️  To check the sequencer: run screen -r aztec
+echo "🔌 To detach from screen, press CTRL+A, then Press D
